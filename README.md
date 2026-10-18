@@ -27,3 +27,6 @@
 *   `hok_clean_data.csv` : 清洗后的半分钟级时间切片面板数据。
 *   `patch_winrate_changes.csv` : 手工整理的版本改动与胜率变化数据。
 *   `hok_balance_dashboard.pbix` : Power BI 可视化监控大屏文件。
+<img width="2880" height="1704" alt="03_patch_winrate_impact" src="https://github.com/user-attachments/assets/f4aeaa20-908b-4f31-96d2-0d8b334b748d" />
+<img width="2880" height="1704" alt="02_kill_gold_correlation" src="https://github.com/user-attachments/assets/f3fbb8ef-7d54-446b-9857-ba922965b069" />
+<img width="2880" height="1704" alt="01_gold_diff_timeline" src="https://github.com/user-attachments/assets/5cfcc3f0-db9d-42bd-868c-c9119362efc6" />
