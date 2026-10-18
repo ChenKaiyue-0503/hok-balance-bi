@@ -1,3 +1,6 @@
+<img width="2880" height="1704" alt="03_patch_winrate_impact" src="https://github.com/user-attachments/assets/591d831f-cef8-4428-a27c-35e195357225" />
+<img width="2880" height="1704" alt="02_kill_gold_correlation" src="https://github.com/user-attachments/assets/ffaea19f-8cf9-429e-b4a5-6678b21a619a" />
+<img width="2880" height="1704" alt="01_gold_diff_timeline" src="https://github.com/user-attachments/assets/19c513e1-872f-4a65-b1e7-120d5287917b" />
 # 王者荣耀·局内节奏与数值平衡性 BI 分析
 
 ## 📌 项目背景与数据说明
